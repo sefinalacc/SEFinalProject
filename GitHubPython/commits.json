@@ -1,0 +1,1451 @@
+[
+  {
+    "sha": "67af644fe996c2b9f325ff09d2fdfe2fd38b5477",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo2N2FmNjQ0ZmU5OTZjMmI5ZjMyNWZmMDlkMmZkZmUyZmQzOGI1NDc3",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-12-08T00:50:33Z"
+      },
+      "committer": {
+        "name": "Brad Choate",
+        "email": "brad@bradchoate.com",
+        "date": "2012-12-10T18:57:51Z"
+      },
+      "message": "iOS: Fix issue #84 (crash caused by un-implemented delegate method -overlayDidAppear)",
+      "tree": {
+        "sha": "e7a0c669f80f7250a374954fe6068004a5ea198b",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/e7a0c669f80f7250a374954fe6068004a5ea198b"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/67af644fe996c2b9f325ff09d2fdfe2fd38b5477",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/67af644fe996c2b9f325ff09d2fdfe2fd38b5477",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/67af644fe996c2b9f325ff09d2fdfe2fd38b5477",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/67af644fe996c2b9f325ff09d2fdfe2fd38b5477/comments",
+    "author": null,
+    "committer": {
+      "login": "bradchoate",
+      "id": 22245,
+      "node_id": "MDQ6VXNlcjIyMjQ1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22245?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bradchoate",
+      "html_url": "https://github.com/bradchoate",
+      "followers_url": "https://api.github.com/users/bradchoate/followers",
+      "following_url": "https://api.github.com/users/bradchoate/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bradchoate/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bradchoate/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bradchoate/subscriptions",
+      "organizations_url": "https://api.github.com/users/bradchoate/orgs",
+      "repos_url": "https://api.github.com/users/bradchoate/repos",
+      "events_url": "https://api.github.com/users/bradchoate/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bradchoate/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d6a4a34f171f4fd04445200bec5f8a90594d9318",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/d6a4a34f171f4fd04445200bec5f8a90594d9318",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/d6a4a34f171f4fd04445200bec5f8a90594d9318"
+      }
+    ]
+  },
+  {
+    "sha": "d6a4a34f171f4fd04445200bec5f8a90594d9318",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzpkNmE0YTM0ZjE3MWY0ZmQwNDQ0NTIwMGJlYzVmOGE5MDU5NGQ5MzE4",
+    "commit": {
+      "author": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-12-06T21:06:06Z"
+      },
+      "committer": {
+        "name": "Brad Choate",
+        "email": "brad@bradchoate.com",
+        "date": "2012-12-10T18:57:19Z"
+      },
+      "message": "Android: Correctly reflect MRAID capabilities in ad request",
+      "tree": {
+        "sha": "2982b57a1f38780bd7c3b0a4a617ab59e904dfd2",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/2982b57a1f38780bd7c3b0a4a617ab59e904dfd2"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/d6a4a34f171f4fd04445200bec5f8a90594d9318",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/d6a4a34f171f4fd04445200bec5f8a90594d9318",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/d6a4a34f171f4fd04445200bec5f8a90594d9318",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/d6a4a34f171f4fd04445200bec5f8a90594d9318/comments",
+    "author": null,
+    "committer": {
+      "login": "bradchoate",
+      "id": 22245,
+      "node_id": "MDQ6VXNlcjIyMjQ1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22245?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bradchoate",
+      "html_url": "https://github.com/bradchoate",
+      "followers_url": "https://api.github.com/users/bradchoate/followers",
+      "following_url": "https://api.github.com/users/bradchoate/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bradchoate/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bradchoate/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bradchoate/subscriptions",
+      "organizations_url": "https://api.github.com/users/bradchoate/orgs",
+      "repos_url": "https://api.github.com/users/bradchoate/repos",
+      "events_url": "https://api.github.com/users/bradchoate/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bradchoate/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c0c4b75b06cf05bc30a4bd9a4f7521655adc36b4",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/c0c4b75b06cf05bc30a4bd9a4f7521655adc36b4",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/c0c4b75b06cf05bc30a4bd9a4f7521655adc36b4"
+      }
+    ]
+  },
+  {
+    "sha": "c0c4b75b06cf05bc30a4bd9a4f7521655adc36b4",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzpjMGM0Yjc1YjA2Y2YwNWJjMzBhNGJkOWE0Zjc1MjE2NTVhZGMzNmI0",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-12-06T07:19:52Z"
+      },
+      "committer": {
+        "name": "Brad Choate",
+        "email": "brad@bradchoate.com",
+        "date": "2012-12-10T18:56:55Z"
+      },
+      "message": "iOS: Fix bug preventing loading indicator from being dismissed properly for HTML interstitials; fix bug which allows the browser controller to continue loading after it has been dismissed",
+      "tree": {
+        "sha": "93f087cba3587f287a7e7ca7669feae8b7466753",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/93f087cba3587f287a7e7ca7669feae8b7466753"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/c0c4b75b06cf05bc30a4bd9a4f7521655adc36b4",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/c0c4b75b06cf05bc30a4bd9a4f7521655adc36b4",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/c0c4b75b06cf05bc30a4bd9a4f7521655adc36b4",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/c0c4b75b06cf05bc30a4bd9a4f7521655adc36b4/comments",
+    "author": null,
+    "committer": {
+      "login": "bradchoate",
+      "id": 22245,
+      "node_id": "MDQ6VXNlcjIyMjQ1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22245?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bradchoate",
+      "html_url": "https://github.com/bradchoate",
+      "followers_url": "https://api.github.com/users/bradchoate/followers",
+      "following_url": "https://api.github.com/users/bradchoate/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bradchoate/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bradchoate/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bradchoate/subscriptions",
+      "organizations_url": "https://api.github.com/users/bradchoate/orgs",
+      "repos_url": "https://api.github.com/users/bradchoate/repos",
+      "events_url": "https://api.github.com/users/bradchoate/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bradchoate/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b8196127bab7b7dec1ed6abb05c70dee2990ab01",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/b8196127bab7b7dec1ed6abb05c70dee2990ab01",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/b8196127bab7b7dec1ed6abb05c70dee2990ab01"
+      }
+    ]
+  },
+  {
+    "sha": "b8196127bab7b7dec1ed6abb05c70dee2990ab01",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzpiODE5NjEyN2JhYjdiN2RlYzFlZDZhYmIwNWM3MGRlZTI5OTBhYjAx",
+    "commit": {
+      "author": {
+        "name": "Brad Choate",
+        "email": "brad@bradchoate.com",
+        "date": "2012-12-04T20:49:32Z"
+      },
+      "committer": {
+        "name": "Brad Choate",
+        "email": "brad@bradchoate.com",
+        "date": "2012-12-04T20:49:32Z"
+      },
+      "message": "Merge remote-tracking branch 'upstream/master' into mopub-merge\n\nConflicts:\n\tAndroid/mopub-android-sdk/src/com/mopub/mobileads/AdView.java",
+      "tree": {
+        "sha": "4c9e16284edcb9e159524c381e8bea36f77f0488",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/4c9e16284edcb9e159524c381e8bea36f77f0488"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/b8196127bab7b7dec1ed6abb05c70dee2990ab01",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/b8196127bab7b7dec1ed6abb05c70dee2990ab01",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/b8196127bab7b7dec1ed6abb05c70dee2990ab01",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/b8196127bab7b7dec1ed6abb05c70dee2990ab01/comments",
+    "author": {
+      "login": "bradchoate",
+      "id": 22245,
+      "node_id": "MDQ6VXNlcjIyMjQ1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22245?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bradchoate",
+      "html_url": "https://github.com/bradchoate",
+      "followers_url": "https://api.github.com/users/bradchoate/followers",
+      "following_url": "https://api.github.com/users/bradchoate/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bradchoate/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bradchoate/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bradchoate/subscriptions",
+      "organizations_url": "https://api.github.com/users/bradchoate/orgs",
+      "repos_url": "https://api.github.com/users/bradchoate/repos",
+      "events_url": "https://api.github.com/users/bradchoate/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bradchoate/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bradchoate",
+      "id": 22245,
+      "node_id": "MDQ6VXNlcjIyMjQ1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22245?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bradchoate",
+      "html_url": "https://github.com/bradchoate",
+      "followers_url": "https://api.github.com/users/bradchoate/followers",
+      "following_url": "https://api.github.com/users/bradchoate/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bradchoate/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bradchoate/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bradchoate/subscriptions",
+      "organizations_url": "https://api.github.com/users/bradchoate/orgs",
+      "repos_url": "https://api.github.com/users/bradchoate/repos",
+      "events_url": "https://api.github.com/users/bradchoate/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bradchoate/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a79045ec4cbb6c762ae5f9f127057cfc2c4a4946",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/a79045ec4cbb6c762ae5f9f127057cfc2c4a4946",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/a79045ec4cbb6c762ae5f9f127057cfc2c4a4946"
+      },
+      {
+        "sha": "e28cc9d19c9778853e8f61fe3520a49ed4dd9ef1",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/e28cc9d19c9778853e8f61fe3520a49ed4dd9ef1",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/e28cc9d19c9778853e8f61fe3520a49ed4dd9ef1"
+      }
+    ]
+  },
+  {
+    "sha": "e28cc9d19c9778853e8f61fe3520a49ed4dd9ef1",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzplMjhjYzlkMTljOTc3ODg1M2U4ZjYxZmUzNTIwYTQ5ZWQ0ZGQ5ZWYx",
+    "commit": {
+      "author": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-10-22T22:06:35Z"
+      },
+      "committer": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-10-22T22:06:35Z"
+      },
+      "message": "Android: Handle inability to retrieve fbattrid more robustly",
+      "tree": {
+        "sha": "e2ea05027f6d6bae071c92518e7b072ae0c93d56",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/e2ea05027f6d6bae071c92518e7b072ae0c93d56"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/e28cc9d19c9778853e8f61fe3520a49ed4dd9ef1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/e28cc9d19c9778853e8f61fe3520a49ed4dd9ef1",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/e28cc9d19c9778853e8f61fe3520a49ed4dd9ef1",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/e28cc9d19c9778853e8f61fe3520a49ed4dd9ef1/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "0d06b50007d8f690dbf94870a41c8e183855d4df",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/0d06b50007d8f690dbf94870a41c8e183855d4df",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/0d06b50007d8f690dbf94870a41c8e183855d4df"
+      }
+    ]
+  },
+  {
+    "sha": "0d06b50007d8f690dbf94870a41c8e183855d4df",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzowZDA2YjUwMDA3ZDhmNjkwZGJmOTQ4NzBhNDFjOGUxODM4NTVkNGRm",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-10-15T23:41:59Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-10-15T23:41:59Z"
+      },
+      "message": "Android: Add testing accessors to MoPubView and MoPubInterstitial",
+      "tree": {
+        "sha": "fa16f7cb112e96778fbdbb8d25af021a8470370f",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/fa16f7cb112e96778fbdbb8d25af021a8470370f"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/0d06b50007d8f690dbf94870a41c8e183855d4df",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/0d06b50007d8f690dbf94870a41c8e183855d4df",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/0d06b50007d8f690dbf94870a41c8e183855d4df",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/0d06b50007d8f690dbf94870a41c8e183855d4df/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "893d4ff18a85f545f1e2b150d9f48b9d496cf270",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/893d4ff18a85f545f1e2b150d9f48b9d496cf270",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/893d4ff18a85f545f1e2b150d9f48b9d496cf270"
+      }
+    ]
+  },
+  {
+    "sha": "893d4ff18a85f545f1e2b150d9f48b9d496cf270",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo4OTNkNGZmMThhODVmNTQ1ZjFlMmIxNTBkOWY0OGI5ZDQ5NmNmMjcw",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-10-15T22:03:07Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-10-15T22:03:15Z"
+      },
+      "message": "iOS: Add 'testing' property on MPAdView and MPInterstitialAdController",
+      "tree": {
+        "sha": "a4f9c26c80ab4f6c3756883881c8a6304b17b774",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/a4f9c26c80ab4f6c3756883881c8a6304b17b774"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/893d4ff18a85f545f1e2b150d9f48b9d496cf270",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/893d4ff18a85f545f1e2b150d9f48b9d496cf270",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/893d4ff18a85f545f1e2b150d9f48b9d496cf270",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/893d4ff18a85f545f1e2b150d9f48b9d496cf270/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "bb15bb6f5c3bcb0565f3300d7574b1bab3039cf3",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/bb15bb6f5c3bcb0565f3300d7574b1bab3039cf3",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/bb15bb6f5c3bcb0565f3300d7574b1bab3039cf3"
+      }
+    ]
+  },
+  {
+    "sha": "bb15bb6f5c3bcb0565f3300d7574b1bab3039cf3",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzpiYjE1YmI2ZjVjM2JjYjA1NjVmMzMwMGQ3NTc0YjFiYWIzMDM5Y2Yz",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-10-15T21:31:56Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-10-15T22:01:45Z"
+      },
+      "message": "iOS: Increase accuracy of iAd impression tracking",
+      "tree": {
+        "sha": "e0b9c34556b869defcdfe15c07babdf70df0a157",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/e0b9c34556b869defcdfe15c07babdf70df0a157"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/bb15bb6f5c3bcb0565f3300d7574b1bab3039cf3",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/bb15bb6f5c3bcb0565f3300d7574b1bab3039cf3",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/bb15bb6f5c3bcb0565f3300d7574b1bab3039cf3",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/bb15bb6f5c3bcb0565f3300d7574b1bab3039cf3/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "6981b3342cfe70f21356ad3545e3cdf174d9f5be",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/6981b3342cfe70f21356ad3545e3cdf174d9f5be",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/6981b3342cfe70f21356ad3545e3cdf174d9f5be"
+      }
+    ]
+  },
+  {
+    "sha": "6981b3342cfe70f21356ad3545e3cdf174d9f5be",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo2OTgxYjMzNDJjZmU3MGYyMTM1NmFkMzU0NWUzY2RmMTc0ZDlmNWJl",
+    "commit": {
+      "author": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-09-24T22:41:56Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-10-02T21:05:06Z"
+      },
+      "message": "Android: Perform HttpClient shutdown on background thread",
+      "tree": {
+        "sha": "f5fedd044ea958ab275b75edabafe74df6d48151",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/f5fedd044ea958ab275b75edabafe74df6d48151"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/6981b3342cfe70f21356ad3545e3cdf174d9f5be",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/6981b3342cfe70f21356ad3545e3cdf174d9f5be",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/6981b3342cfe70f21356ad3545e3cdf174d9f5be",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/6981b3342cfe70f21356ad3545e3cdf174d9f5be/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "a1125441c1a870ecf7c0d0e4f303e063d85470a4",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/a1125441c1a870ecf7c0d0e4f303e063d85470a4",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/a1125441c1a870ecf7c0d0e4f303e063d85470a4"
+      }
+    ]
+  },
+  {
+    "sha": "a1125441c1a870ecf7c0d0e4f303e063d85470a4",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzphMTEyNTQ0MWMxYTg3MGVjZjdjMGQwZTRmMzAzZTA2M2Q4NTQ3MGE0",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-20T15:54:11Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-27T16:05:56Z"
+      },
+      "message": "Release: version 1.9",
+      "tree": {
+        "sha": "44cc3c34b46b8773f0a01025b86ac275b7925502",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/44cc3c34b46b8773f0a01025b86ac275b7925502"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/a1125441c1a870ecf7c0d0e4f303e063d85470a4",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/a1125441c1a870ecf7c0d0e4f303e063d85470a4",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/a1125441c1a870ecf7c0d0e4f303e063d85470a4",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/a1125441c1a870ecf7c0d0e4f303e063d85470a4/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "107282590a50b0835e37be7fb35f61aac59918de",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/107282590a50b0835e37be7fb35f61aac59918de",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/107282590a50b0835e37be7fb35f61aac59918de"
+      }
+    ]
+  },
+  {
+    "sha": "107282590a50b0835e37be7fb35f61aac59918de",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzoxMDcyODI1OTBhNTBiMDgzNWUzN2JlN2ZiMzVmNjFhYWM1OTkxOGRl",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-14T04:41:19Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-20T18:16:37Z"
+      },
+      "message": "iOS: Add support for ASIdentifierManager (UIDevice.identifierForAdvertising replacement)",
+      "tree": {
+        "sha": "8ff0f4f86db577ff27342fb250f4967602d215d8",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/8ff0f4f86db577ff27342fb250f4967602d215d8"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/107282590a50b0835e37be7fb35f61aac59918de",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/107282590a50b0835e37be7fb35f61aac59918de",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/107282590a50b0835e37be7fb35f61aac59918de",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/107282590a50b0835e37be7fb35f61aac59918de/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "345a6ced6eb427333e4a06c82bf16eee888a78ff",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/345a6ced6eb427333e4a06c82bf16eee888a78ff",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/345a6ced6eb427333e4a06c82bf16eee888a78ff"
+      }
+    ]
+  },
+  {
+    "sha": "a79045ec4cbb6c762ae5f9f127057cfc2c4a4946",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzphNzkwNDVlYzRjYmI2Yzc2MmFlNWY5ZjEyNzA1N2NmYzJjNGE0OTQ2",
+    "commit": {
+      "author": {
+        "name": "Eric Lebel",
+        "email": "elebel@saymedia.com",
+        "date": "2012-09-18T21:00:41Z"
+      },
+      "committer": {
+        "name": "Eric Lebel",
+        "email": "elebel@saymedia.com",
+        "date": "2012-09-18T21:00:41Z"
+      },
+      "message": "Fixed the opening of a browser using url. Fix was already in the latest release of mopub on github.",
+      "tree": {
+        "sha": "e5b2055b1b464f884634db3beb824264c398d637",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/e5b2055b1b464f884634db3beb824264c398d637"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/a79045ec4cbb6c762ae5f9f127057cfc2c4a4946",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/a79045ec4cbb6c762ae5f9f127057cfc2c4a4946",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/a79045ec4cbb6c762ae5f9f127057cfc2c4a4946",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/a79045ec4cbb6c762ae5f9f127057cfc2c4a4946/comments",
+    "author": {
+      "login": "elebel",
+      "id": 3515400,
+      "node_id": "MDQ6VXNlcjM1MTU0MDA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3515400?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/elebel",
+      "html_url": "https://github.com/elebel",
+      "followers_url": "https://api.github.com/users/elebel/followers",
+      "following_url": "https://api.github.com/users/elebel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/elebel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/elebel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/elebel/subscriptions",
+      "organizations_url": "https://api.github.com/users/elebel/orgs",
+      "repos_url": "https://api.github.com/users/elebel/repos",
+      "events_url": "https://api.github.com/users/elebel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/elebel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "elebel",
+      "id": 3515400,
+      "node_id": "MDQ6VXNlcjM1MTU0MDA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3515400?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/elebel",
+      "html_url": "https://github.com/elebel",
+      "followers_url": "https://api.github.com/users/elebel/followers",
+      "following_url": "https://api.github.com/users/elebel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/elebel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/elebel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/elebel/subscriptions",
+      "organizations_url": "https://api.github.com/users/elebel/orgs",
+      "repos_url": "https://api.github.com/users/elebel/repos",
+      "events_url": "https://api.github.com/users/elebel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/elebel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "20e19de3e66f87a725b38629e7d160f4c7a381a9",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/20e19de3e66f87a725b38629e7d160f4c7a381a9",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/20e19de3e66f87a725b38629e7d160f4c7a381a9"
+      }
+    ]
+  },
+  {
+    "sha": "345a6ced6eb427333e4a06c82bf16eee888a78ff",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzozNDVhNmNlZDZlYjQyNzMzM2U0YTA2YzgyYmYxNmVlZTg4OGE3OGZm",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-07T00:16:24Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-07T00:16:24Z"
+      },
+      "message": "iOS: Enable UDID conditional compilation",
+      "tree": {
+        "sha": "4d798893be4c3f37bbd6e00cf566844dc1279136",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/4d798893be4c3f37bbd6e00cf566844dc1279136"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/345a6ced6eb427333e4a06c82bf16eee888a78ff",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/345a6ced6eb427333e4a06c82bf16eee888a78ff",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/345a6ced6eb427333e4a06c82bf16eee888a78ff",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/345a6ced6eb427333e4a06c82bf16eee888a78ff/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "7bb9c86aed4d075edeb835c8ed1dc24b2ec2fdc7",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/7bb9c86aed4d075edeb835c8ed1dc24b2ec2fdc7",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/7bb9c86aed4d075edeb835c8ed1dc24b2ec2fdc7"
+      }
+    ]
+  },
+  {
+    "sha": "7bb9c86aed4d075edeb835c8ed1dc24b2ec2fdc7",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo3YmI5Yzg2YWVkNGQwNzVlZGViODM1YzhlZDFkYzI0YjJlYzJmZGM3",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-06T23:34:07Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-06T23:35:03Z"
+      },
+      "message": "iOS: Re-introduce UDID but with a preprocessor directive to control its compilation; remove persistence of device identifier; fix compiler error relating to CALayer",
+      "tree": {
+        "sha": "2cee8329e7459bf9a61f6266e38aa2a513b98054",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/2cee8329e7459bf9a61f6266e38aa2a513b98054"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/7bb9c86aed4d075edeb835c8ed1dc24b2ec2fdc7",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/7bb9c86aed4d075edeb835c8ed1dc24b2ec2fdc7",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/7bb9c86aed4d075edeb835c8ed1dc24b2ec2fdc7",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/7bb9c86aed4d075edeb835c8ed1dc24b2ec2fdc7/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "529ff4ae9583b7b402d02c433511544ca82bb22b",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/529ff4ae9583b7b402d02c433511544ca82bb22b",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/529ff4ae9583b7b402d02c433511544ca82bb22b"
+      }
+    ]
+  },
+  {
+    "sha": "529ff4ae9583b7b402d02c433511544ca82bb22b",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo1MjlmZjRhZTk1ODNiN2I0MDJkMDJjNDMzNTExNTQ0Y2E4MmJiMjJi",
+    "commit": {
+      "author": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-08-08T18:16:28Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-09-06T09:23:23Z"
+      },
+      "message": "Release: version 1.8",
+      "tree": {
+        "sha": "19d2d4253219c4a0842d7fbf2dc8758dc57116d9",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/19d2d4253219c4a0842d7fbf2dc8758dc57116d9"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/529ff4ae9583b7b402d02c433511544ca82bb22b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/529ff4ae9583b7b402d02c433511544ca82bb22b",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/529ff4ae9583b7b402d02c433511544ca82bb22b",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/529ff4ae9583b7b402d02c433511544ca82bb22b/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "e2fb9d2f56d953ef03645453f365f9e6f8021388",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/e2fb9d2f56d953ef03645453f365f9e6f8021388",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/e2fb9d2f56d953ef03645453f365f9e6f8021388"
+      }
+    ]
+  },
+  {
+    "sha": "20e19de3e66f87a725b38629e7d160f4c7a381a9",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzoyMGUxOWRlM2U2NmY4N2E3MjViMzg2MjllN2QxNjBmNGM3YTM4MWE5",
+    "commit": {
+      "author": {
+        "name": "Eric Lebel",
+        "email": "elebel@saymedia.com",
+        "date": "2012-08-14T17:51:55Z"
+      },
+      "committer": {
+        "name": "Eric Lebel",
+        "email": "elebel@saymedia.com",
+        "date": "2012-08-14T17:51:55Z"
+      },
+      "message": "Added support of local path for ads in moPub library",
+      "tree": {
+        "sha": "874bfe63d066c33e182a0c19cb16ceca50eb7407",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/874bfe63d066c33e182a0c19cb16ceca50eb7407"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/20e19de3e66f87a725b38629e7d160f4c7a381a9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/20e19de3e66f87a725b38629e7d160f4c7a381a9",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/20e19de3e66f87a725b38629e7d160f4c7a381a9",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/20e19de3e66f87a725b38629e7d160f4c7a381a9/comments",
+    "author": {
+      "login": "elebel",
+      "id": 3515400,
+      "node_id": "MDQ6VXNlcjM1MTU0MDA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3515400?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/elebel",
+      "html_url": "https://github.com/elebel",
+      "followers_url": "https://api.github.com/users/elebel/followers",
+      "following_url": "https://api.github.com/users/elebel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/elebel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/elebel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/elebel/subscriptions",
+      "organizations_url": "https://api.github.com/users/elebel/orgs",
+      "repos_url": "https://api.github.com/users/elebel/repos",
+      "events_url": "https://api.github.com/users/elebel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/elebel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "elebel",
+      "id": 3515400,
+      "node_id": "MDQ6VXNlcjM1MTU0MDA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3515400?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/elebel",
+      "html_url": "https://github.com/elebel",
+      "followers_url": "https://api.github.com/users/elebel/followers",
+      "following_url": "https://api.github.com/users/elebel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/elebel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/elebel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/elebel/subscriptions",
+      "organizations_url": "https://api.github.com/users/elebel/orgs",
+      "repos_url": "https://api.github.com/users/elebel/repos",
+      "events_url": "https://api.github.com/users/elebel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/elebel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2c43d1e48d6ba819de7fa00a75f72d109afa39c3",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/2c43d1e48d6ba819de7fa00a75f72d109afa39c3",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/2c43d1e48d6ba819de7fa00a75f72d109afa39c3"
+      }
+    ]
+  },
+  {
+    "sha": "2c43d1e48d6ba819de7fa00a75f72d109afa39c3",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzoyYzQzZDFlNDhkNmJhODE5ZGU3ZmEwMGE3NWY3MmQxMDlhZmEzOWMz",
+    "commit": {
+      "author": {
+        "name": "Eric Lebel",
+        "email": "elebel@saymedia.com",
+        "date": "2012-08-10T22:52:23Z"
+      },
+      "committer": {
+        "name": "Eric Lebel",
+        "email": "elebel@saymedia.com",
+        "date": "2012-08-10T22:52:23Z"
+      },
+      "message": "merge",
+      "tree": {
+        "sha": "91226143fbb87c1bfd6b7d012d45f9e8caa4ce65",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/91226143fbb87c1bfd6b7d012d45f9e8caa4ce65"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/2c43d1e48d6ba819de7fa00a75f72d109afa39c3",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/2c43d1e48d6ba819de7fa00a75f72d109afa39c3",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/2c43d1e48d6ba819de7fa00a75f72d109afa39c3",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/2c43d1e48d6ba819de7fa00a75f72d109afa39c3/comments",
+    "author": {
+      "login": "elebel",
+      "id": 3515400,
+      "node_id": "MDQ6VXNlcjM1MTU0MDA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3515400?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/elebel",
+      "html_url": "https://github.com/elebel",
+      "followers_url": "https://api.github.com/users/elebel/followers",
+      "following_url": "https://api.github.com/users/elebel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/elebel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/elebel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/elebel/subscriptions",
+      "organizations_url": "https://api.github.com/users/elebel/orgs",
+      "repos_url": "https://api.github.com/users/elebel/repos",
+      "events_url": "https://api.github.com/users/elebel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/elebel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "elebel",
+      "id": 3515400,
+      "node_id": "MDQ6VXNlcjM1MTU0MDA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3515400?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/elebel",
+      "html_url": "https://github.com/elebel",
+      "followers_url": "https://api.github.com/users/elebel/followers",
+      "following_url": "https://api.github.com/users/elebel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/elebel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/elebel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/elebel/subscriptions",
+      "organizations_url": "https://api.github.com/users/elebel/orgs",
+      "repos_url": "https://api.github.com/users/elebel/repos",
+      "events_url": "https://api.github.com/users/elebel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/elebel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "524f12420f24568d1b32758f4a564ae393438140",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/524f12420f24568d1b32758f4a564ae393438140",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/524f12420f24568d1b32758f4a564ae393438140"
+      },
+      {
+        "sha": "554f1fa37383c649174631dca222394df2117be8",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/554f1fa37383c649174631dca222394df2117be8",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/554f1fa37383c649174631dca222394df2117be8"
+      }
+    ]
+  },
+  {
+    "sha": "e2fb9d2f56d953ef03645453f365f9e6f8021388",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzplMmZiOWQyZjU2ZDk1M2VmMDM2NDU0NTNmMzY1ZjllNmY4MDIxMzg4",
+    "commit": {
+      "author": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-07-11T23:35:53Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-08-03T01:30:33Z"
+      },
+      "message": "Release: version 1.7",
+      "tree": {
+        "sha": "128e40e7f4619d0ca760e0a15d5712f54e360d91",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/128e40e7f4619d0ca760e0a15d5712f54e360d91"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/e2fb9d2f56d953ef03645453f365f9e6f8021388",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/e2fb9d2f56d953ef03645453f365f9e6f8021388",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/e2fb9d2f56d953ef03645453f365f9e6f8021388",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/e2fb9d2f56d953ef03645453f365f9e6f8021388/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "524f12420f24568d1b32758f4a564ae393438140",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/524f12420f24568d1b32758f4a564ae393438140",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/524f12420f24568d1b32758f4a564ae393438140"
+      }
+    ]
+  },
+  {
+    "sha": "554f1fa37383c649174631dca222394df2117be8",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo1NTRmMWZhMzczODNjNjQ5MTc0NjMxZGNhMjIyMzk0ZGYyMTE3YmU4",
+    "commit": {
+      "author": {
+        "name": "Brad Choate",
+        "email": "bchoate@saymedia.com",
+        "date": "2012-08-02T00:04:32Z"
+      },
+      "committer": {
+        "name": "Brad Choate",
+        "email": "bchoate@saymedia.com",
+        "date": "2012-08-02T00:04:32Z"
+      },
+      "message": "Updates for orientation fixes and full-frame takeover size.",
+      "tree": {
+        "sha": "581ee78a91d05ab199500c86fa9716b53c315e61",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/581ee78a91d05ab199500c86fa9716b53c315e61"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/554f1fa37383c649174631dca222394df2117be8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/554f1fa37383c649174631dca222394df2117be8",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/554f1fa37383c649174631dca222394df2117be8",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/554f1fa37383c649174631dca222394df2117be8/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "695c849ef14b075944fa28e431f0a3bce34d2f22",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/695c849ef14b075944fa28e431f0a3bce34d2f22",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/695c849ef14b075944fa28e431f0a3bce34d2f22"
+      }
+    ]
+  },
+  {
+    "sha": "524f12420f24568d1b32758f4a564ae393438140",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo1MjRmMTI0MjBmMjQ1NjhkMWIzMjc1OGY0YTU2NGFlMzkzNDM4MTQw",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-07-24T05:38:24Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-07-30T23:55:12Z"
+      },
+      "message": "iOS: Improve click experience to avoid blank browser screen when loading a URL with many redirects; fix issue with browser not dismissing when using -[UIApplication openURL:]",
+      "tree": {
+        "sha": "caa6e087702ae7ea79ac2b807a993a169424e461",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/caa6e087702ae7ea79ac2b807a993a169424e461"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/524f12420f24568d1b32758f4a564ae393438140",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/524f12420f24568d1b32758f4a564ae393438140",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/524f12420f24568d1b32758f4a564ae393438140",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/524f12420f24568d1b32758f4a564ae393438140/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "6605001c80eb47fe87bc5202b6055115da33281e",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/6605001c80eb47fe87bc5202b6055115da33281e",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/6605001c80eb47fe87bc5202b6055115da33281e"
+      }
+    ]
+  },
+  {
+    "sha": "6605001c80eb47fe87bc5202b6055115da33281e",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo2NjA1MDAxYzgwZWI0N2ZlODdiYzUyMDJiNjA1NTExNWRhMzMyODFl",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-07-25T20:44:04Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-07-25T23:26:29Z"
+      },
+      "message": "iOS: Fix an issue in which the MRAID.isViewable API would return an inaccurate value; resolve issue #59 (MPAdView no longer implicitly alters its .hidden property)",
+      "tree": {
+        "sha": "1e25820fe3a9617380bb1c7ce44fbc37a08e237d",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/1e25820fe3a9617380bb1c7ce44fbc37a08e237d"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/6605001c80eb47fe87bc5202b6055115da33281e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/6605001c80eb47fe87bc5202b6055115da33281e",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/6605001c80eb47fe87bc5202b6055115da33281e",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/6605001c80eb47fe87bc5202b6055115da33281e/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "dfe867d4a79ad85c6068a1d20ca86264dcb95a61",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/dfe867d4a79ad85c6068a1d20ca86264dcb95a61",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/dfe867d4a79ad85c6068a1d20ca86264dcb95a61"
+      }
+    ]
+  },
+  {
+    "sha": "695c849ef14b075944fa28e431f0a3bce34d2f22",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo2OTVjODQ5ZWYxNGIwNzU5NDRmYTI4ZTQzMWYwYTNiY2UzNGQyZjIy",
+    "commit": {
+      "author": {
+        "name": "Brad Choate",
+        "email": "bchoate@saymedia.com",
+        "date": "2012-07-12T18:57:22Z"
+      },
+      "committer": {
+        "name": "Brad Choate",
+        "email": "bchoate@saymedia.com",
+        "date": "2012-07-12T18:57:22Z"
+      },
+      "message": "Set the sayMedia flag for our SDK.",
+      "tree": {
+        "sha": "9114b96a497b199ac6c8afbaf348797482c621f7",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/9114b96a497b199ac6c8afbaf348797482c621f7"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/695c849ef14b075944fa28e431f0a3bce34d2f22",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/695c849ef14b075944fa28e431f0a3bce34d2f22",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/695c849ef14b075944fa28e431f0a3bce34d2f22",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/695c849ef14b075944fa28e431f0a3bce34d2f22/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "7ec8b21b7dd12abb86b1bb2704d9a1d7fa292ff5",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/7ec8b21b7dd12abb86b1bb2704d9a1d7fa292ff5",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/7ec8b21b7dd12abb86b1bb2704d9a1d7fa292ff5"
+      }
+    ]
+  },
+  {
+    "sha": "dfe867d4a79ad85c6068a1d20ca86264dcb95a61",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzpkZmU4NjdkNGE3OWFkODVjNjA2OGExZDIwY2E4NjI2NGRjYjk1YTYx",
+    "commit": {
+      "author": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-06-19T00:15:32Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-06-29T22:34:56Z"
+      },
+      "message": "Release: version 1.6",
+      "tree": {
+        "sha": "c3363f5d2e2aad969d435bd4deb76f84df864327",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/c3363f5d2e2aad969d435bd4deb76f84df864327"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/dfe867d4a79ad85c6068a1d20ca86264dcb95a61",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/dfe867d4a79ad85c6068a1d20ca86264dcb95a61",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/dfe867d4a79ad85c6068a1d20ca86264dcb95a61",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/dfe867d4a79ad85c6068a1d20ca86264dcb95a61/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "249cd52f705ee384a4fc334eea8c376aa5645092",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/249cd52f705ee384a4fc334eea8c376aa5645092",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/249cd52f705ee384a4fc334eea8c376aa5645092"
+      }
+    ]
+  },
+  {
+    "sha": "249cd52f705ee384a4fc334eea8c376aa5645092",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzoyNDljZDUyZjcwNWVlMzg0YTRmYzMzNGVlYThjMzc2YWE1NjQ1MDky",
+    "commit": {
+      "author": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-06-28T20:17:06Z"
+      },
+      "committer": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-06-28T20:17:06Z"
+      },
+      "message": "Android: Fix loading of mraid.js from disk on Android 4.0+",
+      "tree": {
+        "sha": "cf73f015c0362bd88f3ead41b01bf37310b27b1d",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/cf73f015c0362bd88f3ead41b01bf37310b27b1d"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/249cd52f705ee384a4fc334eea8c376aa5645092",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/249cd52f705ee384a4fc334eea8c376aa5645092",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/249cd52f705ee384a4fc334eea8c376aa5645092",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/249cd52f705ee384a4fc334eea8c376aa5645092/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "55cb29083e26c237b567c5e2b3de3832fd27a79e",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/55cb29083e26c237b567c5e2b3de3832fd27a79e",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/55cb29083e26c237b567c5e2b3de3832fd27a79e"
+      }
+    ]
+  },
+  {
+    "sha": "55cb29083e26c237b567c5e2b3de3832fd27a79e",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo1NWNiMjkwODNlMjZjMjM3YjU2N2M1ZTJiM2RlMzgzMmZkMjdhNzll",
+    "commit": {
+      "author": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-06-21T20:11:31Z"
+      },
+      "committer": {
+        "name": "Andrew He",
+        "email": "andrew@mopub.com",
+        "date": "2012-06-26T02:04:26Z"
+      },
+      "message": "iOS: Add support for displaying an interstitial from an arbitrary view controller via -showFromViewController; add interstitial delegate property and deprecate parent property; modify MPInterstitialAdControllerDelegate so that it no longer inherits from MPAdViewDelegate",
+      "tree": {
+        "sha": "8d50ab61118c6ce694a1968407938e905fec423d",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/8d50ab61118c6ce694a1968407938e905fec423d"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/55cb29083e26c237b567c5e2b3de3832fd27a79e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/55cb29083e26c237b567c5e2b3de3832fd27a79e",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/55cb29083e26c237b567c5e2b3de3832fd27a79e",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/55cb29083e26c237b567c5e2b3de3832fd27a79e/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "afa1c79daac740b37d52137a3c9d87632a3dbe90",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/afa1c79daac740b37d52137a3c9d87632a3dbe90",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/afa1c79daac740b37d52137a3c9d87632a3dbe90"
+      }
+    ]
+  },
+  {
+    "sha": "7ec8b21b7dd12abb86b1bb2704d9a1d7fa292ff5",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo3ZWM4YjIxYjdkZDEyYWJiODZiMWJiMjcwNGQ5YTFkN2ZhMjkyZmY1",
+    "commit": {
+      "author": {
+        "name": "Brad Choate",
+        "email": "bchoate@saymedia.com",
+        "date": "2012-06-21T22:27:42Z"
+      },
+      "committer": {
+        "name": "Brad Choate",
+        "email": "bchoate@saymedia.com",
+        "date": "2012-06-21T22:27:42Z"
+      },
+      "message": "Support traditional linking, with assets in root of application.",
+      "tree": {
+        "sha": "c60fdb788ce9d43ca5fe6f78d90364bd44c496bd",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/c60fdb788ce9d43ca5fe6f78d90364bd44c496bd"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/7ec8b21b7dd12abb86b1bb2704d9a1d7fa292ff5",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/7ec8b21b7dd12abb86b1bb2704d9a1d7fa292ff5",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/7ec8b21b7dd12abb86b1bb2704d9a1d7fa292ff5",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/7ec8b21b7dd12abb86b1bb2704d9a1d7fa292ff5/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "79fe3ad7bd10d4295a7b0e8bef1e289a9b195249",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/79fe3ad7bd10d4295a7b0e8bef1e289a9b195249",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/79fe3ad7bd10d4295a7b0e8bef1e289a9b195249"
+      }
+    ]
+  },
+  {
+    "sha": "79fe3ad7bd10d4295a7b0e8bef1e289a9b195249",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4Nzo3OWZlM2FkN2JkMTBkNDI5NWE3YjBlOGJlZjFlMjg5YTliMTk1MjQ5",
+    "commit": {
+      "author": {
+        "name": "Brad Choate",
+        "email": "bchoate@saymedia.com",
+        "date": "2012-06-21T20:06:48Z"
+      },
+      "committer": {
+        "name": "Brad Choate",
+        "email": "bchoate@saymedia.com",
+        "date": "2012-06-21T20:06:48Z"
+      },
+      "message": "Use bounds of screen to avoid gap for status bar which is always hidden for takeovers.",
+      "tree": {
+        "sha": "6a1a04a926e5093fbf7cb86d03992b504c5f2eef",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/6a1a04a926e5093fbf7cb86d03992b504c5f2eef"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/79fe3ad7bd10d4295a7b0e8bef1e289a9b195249",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/79fe3ad7bd10d4295a7b0e8bef1e289a9b195249",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/79fe3ad7bd10d4295a7b0e8bef1e289a9b195249",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/79fe3ad7bd10d4295a7b0e8bef1e289a9b195249/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "be21aa5139b99b1084445705f748f48e15a3ffd5",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/be21aa5139b99b1084445705f748f48e15a3ffd5",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/be21aa5139b99b1084445705f748f48e15a3ffd5"
+      }
+    ]
+  },
+  {
+    "sha": "be21aa5139b99b1084445705f748f48e15a3ffd5",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzpiZTIxYWE1MTM5Yjk5YjEwODQ0NDU3MDVmNzQ4ZjQ4ZTE1YTNmZmQ1",
+    "commit": {
+      "author": {
+        "name": "Ben Harry",
+        "email": "bharry@saymedia.com",
+        "date": "2012-06-14T17:28:45Z"
+      },
+      "committer": {
+        "name": "Ben Harry",
+        "email": "bharry@saymedia.com",
+        "date": "2012-06-14T17:28:45Z"
+      },
+      "message": "Fixes to hide status bar for takeover.",
+      "tree": {
+        "sha": "8fbc39b6033b1ce19c7dd9c4fdf62ab339ea6709",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/8fbc39b6033b1ce19c7dd9c4fdf62ab339ea6709"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/be21aa5139b99b1084445705f748f48e15a3ffd5",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/be21aa5139b99b1084445705f748f48e15a3ffd5",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/be21aa5139b99b1084445705f748f48e15a3ffd5",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/be21aa5139b99b1084445705f748f48e15a3ffd5/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "aa9bfd110d5cedd24eb456e4166c6f27ba4bf634",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/aa9bfd110d5cedd24eb456e4166c6f27ba4bf634",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/aa9bfd110d5cedd24eb456e4166c6f27ba4bf634"
+      }
+    ]
+  },
+  {
+    "sha": "afa1c79daac740b37d52137a3c9d87632a3dbe90",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzphZmExYzc5ZGFhYzc0MGIzN2Q1MjEzN2EzYzlkODc2MzJhM2RiZTkw",
+    "commit": {
+      "author": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-05-30T21:45:49Z"
+      },
+      "committer": {
+        "name": "Nathan Shayefar",
+        "email": "nat@mopub.com",
+        "date": "2012-06-12T00:35:46Z"
+      },
+      "message": "Android: Use ThreadPoolExecutor for AsyncTasks on Android 4.0+; refactor URL loading logic into AdFetcher",
+      "tree": {
+        "sha": "a773afd4388adeaf569ed5551f156962cc2d4278",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/a773afd4388adeaf569ed5551f156962cc2d4278"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/afa1c79daac740b37d52137a3c9d87632a3dbe90",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/afa1c79daac740b37d52137a3c9d87632a3dbe90",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/afa1c79daac740b37d52137a3c9d87632a3dbe90",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/afa1c79daac740b37d52137a3c9d87632a3dbe90/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "e70aa9486d8c9d2e9461f38ec6bf1200dc4a7746",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/e70aa9486d8c9d2e9461f38ec6bf1200dc4a7746",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/e70aa9486d8c9d2e9461f38ec6bf1200dc4a7746"
+      }
+    ]
+  },
+  {
+    "sha": "aa9bfd110d5cedd24eb456e4166c6f27ba4bf634",
+    "node_id": "MDY6Q29tbWl0MzU5ODI4NzphYTliZmQxMTBkNWNlZGQyNGViNDU2ZTQxNjZjNmYyN2JhNGJmNjM0",
+    "commit": {
+      "author": {
+        "name": "Ben Harry",
+        "email": "bharry@saymedia.com",
+        "date": "2012-06-07T18:36:16Z"
+      },
+      "committer": {
+        "name": "Ben Harry",
+        "email": "bharry@saymedia.com",
+        "date": "2012-06-07T18:36:16Z"
+      },
+      "message": "Hide status bar (if visible) for ad takeover.",
+      "tree": {
+        "sha": "c95b91c6c033ee4094f5b76553e3b4a46976b637",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/git/trees/c95b91c6c033ee4094f5b76553e3b4a46976b637"
+      },
+      "url": "https://api.github.com/repos/saymedia/mopub-client/git/commits/aa9bfd110d5cedd24eb456e4166c6f27ba4bf634",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/saymedia/mopub-client/commits/aa9bfd110d5cedd24eb456e4166c6f27ba4bf634",
+    "html_url": "https://github.com/saymedia/mopub-client/commit/aa9bfd110d5cedd24eb456e4166c6f27ba4bf634",
+    "comments_url": "https://api.github.com/repos/saymedia/mopub-client/commits/aa9bfd110d5cedd24eb456e4166c6f27ba4bf634/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "e0677247f12f4b53bd27fabbcb059ae8fd0e55c3",
+        "url": "https://api.github.com/repos/saymedia/mopub-client/commits/e0677247f12f4b53bd27fabbcb059ae8fd0e55c3",
+        "html_url": "https://github.com/saymedia/mopub-client/commit/e0677247f12f4b53bd27fabbcb059ae8fd0e55c3"
+      }
+    ]
+  }
+]
