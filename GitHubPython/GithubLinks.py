@@ -11,7 +11,7 @@ def get_repositories_links(links):
 
     for link in links:
         req = urllib.request.Request(link.rstrip())
-        req.add_header('Authorization', 'token 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')
+        req.add_header('Authorization', 'token __INSERT_GITHUB_TOKEN HERE__')
         try:
             with urllib.request.urlopen(req) as url:
                 data = json.loads(url.read().decode())
