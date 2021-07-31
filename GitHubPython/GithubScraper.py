@@ -24,11 +24,11 @@ for link in link_list:
 
     
 
-with open("C:\workspace\GitHubPython\scrapper_result.txt", 'w', encoding='utf-8') as file:
+with open("scrapper_result.txt", 'w', encoding='utf-8') as file:
     for key in to_write.keys():
         file.write(to_write[key] + "\n")
 
-with open("C:\workspace\GitHubPython\\testing.csv", 'w', encoding='utf-8') as file:
+with open("testing.csv", 'w', encoding='utf-8') as file:
     writer = csv.writer(file)
     for key in to_write.keys():
         row = [key, to_write[key]]
