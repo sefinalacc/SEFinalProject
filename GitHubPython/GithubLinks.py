@@ -19,15 +19,15 @@ def get_repositories_links(links):
                 print(count)
                 count = count + 1
         except:
-            with open("C:\workspace\GitHubPython\\api_links_missed.txt", 'w') as file:
+            with open("api_links_missed.txt", 'w') as file:
                 file.write(link + '\n')
     return toReturn
 
 url_list = []
-with open("C:\workspace\GitHubPython\\api_links.txt", 'r') as url_file:
+with open("api_links.txt", 'r') as url_file:
     url_list = get_repositories_links(url_file)
 
-with open("C:\workspace\GitHubPython\html_links.txt", 'w') as file:
+with open("html_links.txt", 'w') as file:
     for url in url_list:
         file.write(url + '\n')
 
