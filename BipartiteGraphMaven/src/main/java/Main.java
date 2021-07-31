@@ -26,7 +26,7 @@ public class Main {
         XSSFWorkbook workbook = null;
         try
         {
-            fileInputStream = new FileInputStream("C:\\Users\\Yuval\\Desktop\\New folder\\forks.xlsx");
+            fileInputStream = new FileInputStream("forks.xlsx");
             workbook = new XSSFWorkbook(fileInputStream);
             XSSFSheet sheet = workbook.getSheetAt(0);
             Iterator<Row> iterator = sheet.iterator();
